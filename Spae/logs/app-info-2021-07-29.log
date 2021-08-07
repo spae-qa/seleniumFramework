@@ -1,0 +1,9 @@
+[INFO ] 2021-07-29 23:54:44.852 [main] log4j - This is info message
+[ERROR] 2021-07-29 23:54:44.856 [main] log4j - This is error message
+[WARN ] 2021-07-29 23:54:44.857 [main] log4j - This is warning message
+[FATAL] 2021-07-29 23:54:44.857 [main] log4j - This is fatal message
+[TRACE] 2021-07-29 23:57:38.734 [main] log4j - This is Trace message
+[INFO ] 2021-07-29 23:57:38.737 [main] log4j - This is info message
+[ERROR] 2021-07-29 23:57:38.737 [main] log4j - This is error message
+[WARN ] 2021-07-29 23:57:38.737 [main] log4j - This is warning message
+[FATAL] 2021-07-29 23:57:38.737 [main] log4j - This is fatal message

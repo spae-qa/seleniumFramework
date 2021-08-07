@@ -1,0 +1,10 @@
+
+<suite parallel="classes" name="Suite3">
+  <test thread-count="5" parallel="classes" name="Test3">
+    <classes>
+      
+      <class name="tests.contactUsTest"/>
+    
+    </classes>
+  </test> 
+</suite> 

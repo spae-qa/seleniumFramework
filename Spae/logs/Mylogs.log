@@ -1,0 +1,11 @@
+[INFO ] 2021-07-29 01:31:26.626 [main] log4j - This is info message
+[ERROR] 2021-07-29 01:31:26.630 [main] log4j - This is error message
+[WARN ] 2021-07-29 01:31:26.630 [main] log4j - This is warning message
+[FATAL] 2021-07-29 01:31:26.630 [main] log4j - This is fatal message
+[TRACE] 2021-07-29 01:32:23.223 [main] log4j - This is Trace message
+[INFO ] 2021-07-29 01:32:23.225 [main] log4j - This is info message
+[ERROR] 2021-07-29 01:32:23.225 [main] log4j - This is error message
+[WARN ] 2021-07-29 01:32:23.225 [main] log4j - This is warning message
+[FATAL] 2021-07-29 01:32:23.226 [main] log4j - This is fatal message
+[INFO ] 2021-07-29 01:38:17.651 [main] log4j - This is info message for immunity
+[INFO ] 2021-07-29 09:56:24.930 [main] log4j - This is info message for immunity
