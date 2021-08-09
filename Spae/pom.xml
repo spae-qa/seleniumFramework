@@ -90,7 +90,7 @@
 
 </plugins>
   
-  <finalName>servicedeploy</finalName> <!-- creating project jar here -->
+  <finalName>servicedeploy</finalName> <!-- creating project jar heree -->
   
   </build>
   
