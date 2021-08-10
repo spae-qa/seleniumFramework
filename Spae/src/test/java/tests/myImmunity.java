@@ -70,9 +70,6 @@ public class myImmunity extends BaseSetup {
 		
 		logger.info("This is info message for immunity");
 
-
-		
-
 	}
 
 
